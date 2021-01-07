@@ -2,3 +2,11 @@
   background-color: #e2929a!important;	
 }
 
+.logo {
+    background-color: beige;
+    color: rebeccapurple;
+    border-radius: 2036px;
+    max-width: 150px;
+    font-size: 100;
+    max-height: 150;
+}
