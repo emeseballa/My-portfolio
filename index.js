@@ -37,8 +37,11 @@ window.onload = function readTime() {
 }
 
 
+//function message() {
+//	alert("Hello visitor!")
+//}
 
-
+// message()
 
 
 
